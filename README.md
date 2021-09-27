@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Greeting! I'm Front-End Developer Junior MJ👋
+### I'm Interested in developing React and TypeScript.
+### I like to learn anything. If you have a friend to share your knowledge of the front-end with, please contact minai621@naver.com
+### 자격증 목록
+#### - 정보처리기능사
+#### - 정보기기운용기능사
+#### - 웹디자인기능사
 <!--
 **minai621/minai621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
