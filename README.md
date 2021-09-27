@@ -1,4 +1,5 @@
 ### Greeting! I'm Front-End Developer Junior MJ👋
+### I'm 21 years old in Korean age.
 ### I'm Interested in developing React and TypeScript.
 ### I like to learn anything. If you have a friend to share your knowledge of the front-end with, please contact minai621@naver.com
 ### 자격증 목록
