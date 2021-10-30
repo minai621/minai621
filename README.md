@@ -6,6 +6,7 @@
 #### - 정보처리기능사
 #### - 정보기기운용기능사
 #### - 웹디자인기능사
+#### - COS Pro 2급 (C)
 <!--
 **minai621/minai621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
