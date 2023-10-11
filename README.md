@@ -6,6 +6,8 @@
  - 정보기기운용기능사
  - 웹디자인기능사
  - COS Pro 2급 (C)
+
+ [minai621's GitHub stats](https://github-readme-stats.vercel.app/api?username=minai621)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **minai621/minai621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
