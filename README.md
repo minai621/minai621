@@ -37,8 +37,8 @@ I'm Interested in developing React and TypeScript.
  - 웹디자인기능사
  - COS Pro 2급 (C)
 
-최근에 시작한 블로그에요
-![mindev velog](https://velog.io/@mindev/posts)
+최근에 시작한 블로그에요 <br/>
+<a href="https://velog.io/@mindev/posts">mindev velog</a>
 
 <!--
 
