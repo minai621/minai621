@@ -38,7 +38,7 @@ I'm Interested in developing React and TypeScript.
  - COS Pro 2급 (C)
 
 최근에 시작한 블로그에요
-![mindev velog]([https://velog.io/@mindev/Web-%EA%B4%91%EA%B3%A0-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-%EA%B3%BC%EC%A0%95-%EA%B8%B0%EB%A1%9D](https://velog.io/@mindev/posts))
+![mindev velog](https://velog.io/@mindev/posts)
 
 <!--
 
