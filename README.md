@@ -30,6 +30,9 @@ I'm Interested in developing React and TypeScript.
  #### 투니플레이
  프론트엔드 개발 인턴으로 2023.10 ~ 2024.01까지 근무함.
 
+ #### CMC 14th
+ Central Makeus Challange 14기의 Web FE팀에서 웹뷰 하이브리드앱 개발을 하였음.
+
  #### [알파카랩스](https://www.alphaca.kr/)
  프론트엔드 개발, 2024.02부터 근무중 
 
