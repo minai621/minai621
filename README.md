@@ -1,22 +1,24 @@
-# Welcome! I'm Front-End Developer Junior MJ👋
+# Welcome! I'm Junior Front-End Developer MJ👋
 [![minai621's GitHub stats](https://github-readme-stats.vercel.app/api?username=minai621)](https://github.com/anuraghazra/github-readme-stats)
 [![minai621's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minai621&layout=compact)](https://github.com/delay-100/github-readme-stats)
  
-I'm Interested in developing React and TypeScript.
+I'm Interested in developing React and TypeScript. 
 <code>contact minai621@naver.com</code>
 
 ### 기술 스택
+<div style="display: flex; gap: "10px";">
  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
  ### History
 
 #### 숭실대학교
-2021학년에 입학하여 현재 2학년 재학 중
+2021학년에 입학, 현재 2학년 재학 중
 
 #### 유어슈(숭실대학교 동아리)
 프론트엔드 개발자로 2021.06 ~ 2021.12 한 학기간 프로젝트 개발에 참여함.
@@ -24,13 +26,13 @@ I'm Interested in developing React and TypeScript.
 #### 대한민국 해군 (병역)
 SW개발병으로 2022.02 ~ 2023.10까지 복무함
 
-#### 투니플레이
+#### 투니플레이 (인턴)
 프론트엔드 개발 인턴으로 2023.10 ~ 2024.01까지 근무함
 
-#### CMC 14th
+#### CMC 14th 
 Central Makeus Challange 14기의 Web FE팀에서 웹뷰 하이브리드앱 개발을 하였음
 
-#### [알파카랩스](https://www.alphaca.kr/)
+#### [알파카랩스](https://www.alphaca.kr/) (FE Dev)
 프론트엔드 개발, 2024.02부터 근무중 
 
  
