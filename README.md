@@ -8,6 +8,7 @@ I'm Interested in developing React and TypeScript.
 ### 기술 스택
 <div style="display: flex; gap: "10px";">
  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+ <img src="https://img.shields.io/badge/React%20Native-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
