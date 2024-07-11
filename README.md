@@ -50,14 +50,29 @@ Worked as a front-end development intern from October 2023 to January 2024.
 Developed a web view hybrid app as part of the Web FE team for the 14th Central Makeus Challenge.
 - [Alpaca Labs](https://www.alphaca.kr/) (FE Developer) <br />
 Working as a front-end developer since February 2024.
-- GoormthonUniv SSU(Goorm x Kakao) <br />
+- GoormthonUniv 3th, SSU(Goorm x Kakao) <br />
 Managed the club as the president of Soongsil University.
 - Open Source Contribution Academy <br />
-Yorkie mentee
+team Yorkie mentee
 
 
 ### Etc
 
 #### Opensource Activities
-- [vue-form-handler](https://www.github.com/dbssman/vue-form-handler)
+- [vue-form-handler](https://www.github.com/dbssman/vue-form-handler)  <br />
 [fix Ensure useFormContext always returns a valid context](https://github.com/dbssman/vue-form-handler/pull/74)
+
+#### Hackathon Activities
+I enjoy participating in hackathons as they allow me to quickly move from ideation to development and efficiently find solutions.
+
+- hanghae-hackathon <br/>
+  - 🌍 I participated in a hackathon aimed at solving social issues through AI<br/>
+  - 🐶 Developed a service that matches stray dogs with potential owners based on behavioral analysis<br/>
+  - 🤖 Leveraged AI to analyze the behavior of stray dogs and recommend suitable matches to prospective dog owners
+  - [Repository Introducing "ban-ryeo-mung"](https://github.com/hanghae-hackathon/100-frontend)
+- DnD Hackathon
+  - 🌍 The theme is #Daily, #Life, #Local
+  - 🤖 An ice-breaking service that uses the Open AI API to find and guess AI pretending to be someone else.
+  - [raw develop repository](https://github.com/eyeco-org/frontend)
+
+
