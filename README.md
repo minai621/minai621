@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/-MJ-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:minai621@naver.com"/>
 </a>
   
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142"/>
+<a href="https://www.linkedin.com/in/mj-dev/">
+ <img src="https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mj-dev/"/>
 </a>
 
 <a href="https://velog.io/@mindev/posts">
