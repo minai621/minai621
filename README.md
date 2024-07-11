@@ -1,67 +1,51 @@
-# Welcome! I'm Junior Front-End Developer MJ👋
+<h1>Front-End Engineer, MJ <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+## About Me
+- 💻 I’m a developer who loves working with React and TypeScript
+- 🔧 I build my own tools when necessary
+- ⚖️ I consider technical trade-offs with the motto "There is no silver bullet."
+
+<p align="center">
+<a href="mailto: minai621@naver.com">
+  <img src="https://img.shields.io/badge/-MJ-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:minai621@naver.com"/>
+</a>
+<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+ <img src="https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+</a>
+ <a href="https://twitter.com/ritikhere307">
+ <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
+</p>
+
 [![minai621's GitHub stats](https://github-readme-stats.vercel.app/api?username=minai621)](https://github.com/anuraghazra/github-readme-stats)
 [![minai621's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minai621&layout=compact)](https://github.com/delay-100/github-readme-stats)
  
-I'm Interested in developing React and TypeScript. 
-<code>contact minai621@naver.com</code>
 
-### 기술 스택
-<div style="display: flex; gap: "10px";">
- <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
- <img src="https://img.shields.io/badge/React%20Native-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
- <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
- <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
- <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
- <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-</div>
 
- ### History
+## Tech Spec
 
-#### 숭실대학교
-2021학년에 입학, 현재 2학년 재학 중
+I mainly use the following technologies :D
 
-#### 유어슈(숭실대학교 동아리)
-프론트엔드 개발자로 2021.06 ~ 2021.12 한 학기간 프로젝트 개발에 참여함.
+**Modern Web Technologies**
 
-#### 대한민국 해군 (병역)
-SW개발병으로 2022.02 ~ 2023.10까지 복무함
+| <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"><br><sub style="font-weight: bold;">React</sub></div> | <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="React Native" alt="React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png"><br><sub style="font-weight: bold;">React Native</sub></div> | <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"><br><sub style="font-weight: bold;">Next.js</sub></div> | <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"><br><sub style="font-weight: bold;">TypeScript</sub></div> |
+|--|--|--|--|
+| <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="Panda" alt="Panda" width="40px" src="https://github.com/minai621/minai621/assets/80272444/632e3752-5af8-471a-a916-20401398228e"><br><sub style="font-weight: bold;">Panda</sub></div> | <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="Zustand" alt="Zustand" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png"><br><sub style="font-weight: bold;">Zustand</sub></div> | <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="React Query" alt="React Query" width="40px" src="https://github.com/minai621/minai621/assets/80272444/5a772f8f-a368-43a8-98ad-734e2cedd98d"><br><sub style="font-weight: bold;">React Query</sub></div> | <div align="center" style="height: 80px; display: flex; flex-direction: column; justify-content: space-between;"><img title="Turbo" alt="Turbo" width="40px" src="https://github.com/minai621/minai621/assets/80272444/5ff69481-86ba-4283-83bd-6bde124c4562"><br><sub style="font-weight: bold;">Turbo</sub></div> |
 
-#### 투니플레이 (인턴)
-프론트엔드 개발 인턴으로 2023.10 ~ 2024.01까지 근무함
 
-#### CMC 14th 
-Central Makeus Challange 14기의 Web FE팀에서 웹뷰 하이브리드앱 개발을 하였음
+### History
 
-#### [알파카랩스](https://www.alphaca.kr/) (FE Dev)
-프론트엔드 개발, 2024.02부터 근무중 
-
- 
-
- ### 기타
- 다음과 같은 자격증을 보유하고 있어요.
- - 정보처리기능사
- - 정보기기운용기능사
- - 웹디자인기능사
- - COS Pro 2급 (C)
-
-최근에 시작한 블로그에요 <br/>
-<a href="https://velog.io/@mindev/posts">mindev velog</a>
-
-<!--
-
-### 기술
-
-**minai621/minai621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soongsil University <br />
+Enrolled in 2021, currently a sophomore
+- Republic of Korea Navy (Military Service) <br />
+Served as a software development soldier from February 2022 to October 2023.
+- TooniPlay (Internship) <br />
+Worked as a front-end development intern from October 2023 to January 2024.
+- CMC 14th <br />
+Developed a web view hybrid app as part of the Web FE team for the 14th Central Makeus Challenge.
+- [Alpaca Labs](https://www.alphaca.kr/) (FE Developer) <br />
+Working as a front-end developer since February 2024.
+- GoormthonUniv SSU(Goorm x Kakao) <br />
+Managed the club as the president of Soongsil University.
+- Open Source Contribution Academy <br />
+Yorkie mentee
