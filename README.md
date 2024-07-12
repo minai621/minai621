@@ -3,7 +3,7 @@
 ## About Me
 - 💻 I’m a developer who loves working with React and TypeScript
 - 🔧 I build my own tools when necessary
-- ⚖️ I consider technical trade-offs with the motto "There is no silver bullet."
+- 💡 Passionate about solving complex problems and constantly learning new technologies.
 
 ### Links
 <p>
