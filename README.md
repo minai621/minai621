@@ -15,8 +15,11 @@
  <img src="https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mj-dev/"/>
 </a>
 
-<a href="https://velog.io/@mindev/posts">
- <img src="https://img.shields.io/badge/-velog-green?style=flat-square&logo=twitter&logoColor=white&link=https://velog.io/@mindev/posts"/>
+<!--<a href="https://velog.io/@mindev/posts">
+<img src="https://img.shields.io/badge/-velog-green?style=flat-square&logo=twitter&logoColor=white&link=https://velog.io/@mindev/posts"/>
+</a>-->
+<a href="https://mj-dev.site">
+  <img src="https://img.shields.io/badge/-personal_blog-green?style=flat-square&logo=twitter&logoColor=white&link=https://mj-dev.site"/>
 </a>
 </p>
 
