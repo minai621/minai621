@@ -52,7 +52,7 @@ Worked as a front-end development intern from October 2023 to January 2024.
 - CMC 14th <br />
 Developed a web view hybrid app as part of the Web FE team for the 14th Central Makeus Challenge.
 - [Alpaca Labs](https://www.alphaca.kr/) (FE Developer) <br />
-Working as a front-end developer since February 2024.
+Worked as a front-end development intern from February 2024 to July 2024.
 - GoormthonUniv 3th, SSU(Goorm x Kakao) <br />
 Managed the club as the president of Soongsil University.
 - Open Source Contribution Academy <br />
