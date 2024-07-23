@@ -65,6 +65,9 @@ team Yorkie mentee
 #### Opensource Activities
 - [vue-form-handler](https://www.github.com/dbssman/vue-form-handler)  <br />
 [fix Ensure useFormContext always returns a valid context](https://github.com/dbssman/vue-form-handler/pull/74)
+- [Yorkie codepair](https://github.com/yorkie-team/codepair) <br />
+Will continue contribute to the Yorkie project. <br />
+[Add Document Export Functionality](https://github.com/yorkie-team/codepair/pull/238)
 
 #### Hackathon Activities
 I enjoy participating in hackathons as they allow me to quickly move from ideation to development and efficiently find solutions.
