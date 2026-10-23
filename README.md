@@ -1,8 +1,11 @@
-<img align="right" src="assets/character.png" width="112" alt="Pixel mage in a teal cloak holding a codebook">
-
 <h1>MJ</h1>
+
+<img align="right" src="assets/character.png" width="128" alt="Pixel mage in a teal cloak holding a codebook">
+
 <p><strong>Software Engineer</strong><br>I build products and developer tools.</p>
 <p><a href="https://github.com/minai621">GitHub</a> / <a href="https://mj-dev.site/">Blog</a></p>
+
+<br clear="all">
 
 ## Experience
 
