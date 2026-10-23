@@ -1,11 +1,14 @@
-<h1>MJ</h1>
-
-<img align="right" src="assets/character.png" width="128" alt="Pixel mage in a teal cloak holding a codebook">
-
-<p><strong>Software Engineer</strong><br>I build products and developer tools.</p>
-<p><a href="https://github.com/minai621">GitHub</a> / <a href="https://mj-dev.site/">Blog</a></p>
-
-<br clear="all">
+<table width="100%">
+<tr><th colspan="3" align="left"><samp>CHARACTER INFO</samp></th></tr>
+<tr>
+<td rowspan="4" width="200" align="center" valign="middle"><img src="assets/engineer.png" width="176" alt="Pixel software engineer holding a laptop"></td>
+<td colspan="2"><p><strong>MJ</strong><br><sub>@minai621</sub></p></td>
+</tr>
+<tr><td width="88"><samp>JOB</samp></td><td>Software Engineer</td></tr>
+<tr><td><samp>FAME</samp></td><td><a href="https://github.com/minai621?tab=followers" title="147 GitHub followers"><strong>+147</strong></a></td></tr>
+<tr><td colspan="2">I build products and developer tools.</td></tr>
+<tr><td colspan="3"><a href="https://github.com/minai621">GitHub</a> / <a href="https://mj-dev.site/">Blog</a></td></tr>
+</table>
 
 ## Experience
 
